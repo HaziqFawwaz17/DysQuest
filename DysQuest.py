@@ -74,10 +74,10 @@ if game == "Matching Words":
     # Sample words and images for matching
     words = ["Cat", "Dog", "Bird", "Fish"]
     images = {
-        "Cat": "cat.png",
-        "Dog": "dog.png",
-        "Bird": "bird.png",
-        "Fish": "fish.png"
+        "Cat": "Cat.png",
+        "Dog": "Dog.png",
+        "Bird": "Bird.png",
+        "Fish": "Fish.png"
     }  # Dictionary of word-image pairs (replace with actual image paths)
     
     # Randomize a new image if none exists or after correct submission
